@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_products/static/css/main.f400ecd2.css",
+    "main.js": "/react_products/static/js/main.95a63b50.js",
+    "index.html": "/react_products/index.html",
+    "main.f400ecd2.css.map": "/react_products/static/css/main.f400ecd2.css.map",
+    "main.95a63b50.js.map": "/react_products/static/js/main.95a63b50.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f400ecd2.css",
+    "static/js/main.95a63b50.js"
+  ]
+}
